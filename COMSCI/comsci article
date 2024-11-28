@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>insert title</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file -->
+</head>
+<body>
+    <header>
+        <h1>insert title</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="articles.html">Articles</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <article>
+            <h2>By Twyla Anya P. Estella - Created on November 26, 2024</h2>
+            <img src="images/deceased.jpg" alt="Necrophillia">
+            <p>
+                Imagine a world where even in death, one's body is not their own—a chilling reality that forces us to confront the darkest corners of human behavior. Necrophilia derived from the Greek words “Phillips” (love) and “nekros” (dead body) which basically means, the sexual attraction to corpses. It is one of society’s most taboo and misunderstood behaviors. This can be seen as an extreme form of objectification that disregards the dignity of the deceased and the trauma such actions inflict on their loved ones. 
+
+            </p>
+            <p>
+                Legally, necrophilia is criminalized in most countries, considered both a desecration of human remains and an affront to public morality. According to Oxford Human Rights Hub (2023), “the court determined that this act does not qualify as rape ung Section 375 of the Indian Penal Code(‘IPC’). This is because rape requires the involvement of a human being, and a dead body cannot be considered as such.” This shows that necrophilia is technically not considered as rape, but merely a paraphilic disorder. However, cases often reveal gaps in legal frameworks, with some jurisdictions lacking explicit laws addressing the act. 
+            </p>
+            <p>
+                Looking back, necrophilia has been a universal taboo and many legal systems fail to provide a clear and concrete definition of the crime. There are multiple demands to address necrophilia, emphasizeing not only punishment but also the importance of recognizing and respecting the deceased. To address this issue, it requires an approach that may balance the legal frameworks with preventive measures such as spreading awareness and mental health interventions. This helps individuals understand and respect the deceased and societies can reduce the cases of such foul behavior. 
+             </p>
+            <p>
+                To conclude, necrophilia shows how some individuals with psychological disorders present the challenges that goes beyond the norms. Addressing this issue does not only require a punishment, but demands an approach that needs to help the person with the psychological disorder by at least convincing them into understanding that the dead need respect and understand more about how these can affect the others. 
+            </p>
+        </article>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Top Headlines</p>
+    </footer>
+</body>
+</html>
